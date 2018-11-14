@@ -1,6 +1,5 @@
 This is a Test!
 This is a Test! 2018/11/14/ 9:14:27
 Branch Test!
-Pull Test!
-Pull Test2!
-pull Test3!
+Branch Test2!
+Confrict Test1!
